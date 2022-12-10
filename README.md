@@ -20,6 +20,7 @@
   </a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 </div>
+![visitors](https://vbr.wocr.tk/badge?page_id=anand-dev-parekh.anand-dev-parekh&color=7982a9)
 
 ---
 ### :book: About Me
