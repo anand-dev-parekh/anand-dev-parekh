@@ -22,7 +22,7 @@
 </div>
 
 ---
-### About Me
+### :book: About Me
 - 💼 Full-Stack Developer at <a href="https://www.7d-imaging.com/">7D Imaging</a>
 - 🎓 Studying Computer Science at <a href="https://wustl.edu/">Washington University in St Louis</a>, class of 2025
 
