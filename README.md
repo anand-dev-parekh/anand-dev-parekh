@@ -9,7 +9,8 @@
       \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
       /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
      /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
-     \/__/         \/__/         \/__/     \/__/     \/__/     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+     \/__/         \/__/         \/__/     \/__/     \/__/     
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 </pre>
 <div id="badges">
   <a href="https://www.linkedin.com/in/anand-parekh-6221a623a/">
