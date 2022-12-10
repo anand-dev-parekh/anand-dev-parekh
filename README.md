@@ -20,7 +20,8 @@
   </a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 </div>
-![](https://komarev.com/ghpvc/?username=anand-dev-parekh&color=blueviolet)
+
+![](https://komarev.com/ghpvc/?username=anand-dev-parekh&style=flat-square&color=7982a9)
 
 ---
 ### :book: About Me
