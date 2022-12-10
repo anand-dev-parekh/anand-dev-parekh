@@ -19,10 +19,9 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+  ![visitors](https://vbr.wocr.tk/badge?page_id=anand-dev-parekh.anand-dev-parekh&color=7982a9)
 </div>
-<div>
-![visitors](https://vbr.wocr.tk/badge?page_id=anand-dev-parekh.anand-dev-parekh&color=7982a9)
-</div>
+
 ---
 ### :book: About Me
 - 💼 Full-Stack Developer at <a href="https://www.7d-imaging.com/">7D Imaging <img src="https://avatars.githubusercontent.com/u/78103914?s=200&v=4" height="30em" align="center" alt="7D Imaging" title="7D Imaging"/></a>
