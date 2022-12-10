@@ -14,5 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+### About Me
 
+---
+### Languages, Frameworks, Tools
+
+---
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anand-dev-parekh&theme=tokyonight)](https://git.io/streak-stats)
