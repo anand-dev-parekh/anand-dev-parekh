@@ -1,5 +1,6 @@
+- ![#0a0047](https://via.placeholder.com/15/f03c15/000000?text=+) `#0a0047`
 ### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-```diff @@ This is the place where I code stuff @@```
+``` @@ This is the place where I code stuff @@ ```
 
 ---
 ### About Me
