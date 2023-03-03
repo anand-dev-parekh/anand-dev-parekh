@@ -25,7 +25,6 @@
 
 ---
 ### :book: About Me
-- 💼 Full-Stack Developer Intern at <a href="https://www.7d-imaging.com/">7D Imaging <img src="https://avatars.githubusercontent.com/u/78103914?s=200&v=4" height="30em" align="center" alt="7D Imaging" title="7D Imaging"/></a>
 - 🎓 Studying Computer Science at <a href="https://wustl.edu/">Washington University in St Louis</a>, class of 2025
 
 ---
