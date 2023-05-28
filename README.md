@@ -25,7 +25,7 @@
 
 ---
 ### :book: About Me
-- 🎓 Studying Computer Science at <a href="https://wustl.edu/">Washington University in St Louis</a>, class of 2025
+- 🎓 Studying Computer Science at <a href="https://wustl.edu/">Washington University in St Louis</a>
 
 ---
 ### Languages, Frameworks, Tools
