@@ -27,8 +27,7 @@
 ### :book: About Me
 - 🎓 BS+MS Computer Science at <a href="https://wustl.edu/">Washington University in St Louis</a>
 
----
-### Languages, Frameworks, Tools
+https://anand-dev-parekh.github.io/
 
 ---
 ### Github Stats
